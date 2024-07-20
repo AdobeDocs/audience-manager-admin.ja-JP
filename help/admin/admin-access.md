@@ -1,13 +1,13 @@
 ---
 description: Inside Adobe でアカウント管理ポータルにログインして、機能管理アクセス権を申請してから、以下の手順に従ってください。
-seo-description: Inside Adobe でアカウント管理ポータルにログインして、機能管理アクセス権を申請してから、以下の手順に従ってください。
-seo-title: 機能管理アクセス権の申請方法
+seo-description: Log in to the Account Management portal in Inside Adobe to request Functional Admin Access and follow the steps described below.
+seo-title: How to Request Functional Admin Access
 title: 機能管理アクセス権の申請方法
 uuid: 261494ab-74e6-4465-b599-7a3e9c39e1e6
 exl-id: 6bf6740c-3129-4977-a8e1-1b065af199ef
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '148'
 ht-degree: 100%
 
 ---

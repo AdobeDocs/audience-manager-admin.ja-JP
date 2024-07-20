@@ -50,7 +50,7 @@ ht-degree: 100%
    + [形式の作成または編集](formats/admin-create-format.md)
 + OAuth2 クライアント {#oath2-clients}
    + [OAuth2 クライアント](admin-oauth2/admin-oauth2-create-edit.md)
-   + [API の要件と推奨事項](admin-oauth2/aam-admin-api-requirements.md)
+   + [API の要件とレコメンデーション](admin-oauth2/aam-admin-api-requirements.md)
 + [監査ログ](admin-audit-logging.md)
 + [マイプロファイル](admin-my-profile.md)
 + [宛先の設定に関するトラブルシューティング](admin-destination-troubleshooting.md)

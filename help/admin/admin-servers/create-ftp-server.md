@@ -6,8 +6,8 @@ title: FTP サーバーの作成または編集
 uuid: 9273abb2-963d-4d83-bf5a-b3817f0b90e6
 exl-id: 9eae4ecf-ccde-483a-ae53-1cbac033d8d6
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
-workflow-type: ht
-source-wordcount: '393'
+workflow-type: tm+mt
+source-wordcount: '387'
 ht-degree: 100%
 
 ---

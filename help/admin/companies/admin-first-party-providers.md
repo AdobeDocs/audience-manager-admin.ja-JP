@@ -1,13 +1,13 @@
 ---
 description: ファーストパーティデータプロバイダーのコンテナとマッピングを表示または編集します。
-seo-description: ファーストパーティデータプロバイダーのコンテナとマッピングを表示または編集します。
-seo-title: ファーストパーティデータプロバイダーの管理
+seo-description: View or edit containers and mappings for first-party data providers.
+seo-title: Manage First Party Data Providers
 title: ファーストパーティデータプロバイダーの管理
 uuid: 222890cb-2ebd-4e16-a516-51000891ed34
 exl-id: c1ac1d7c-84d4-44f0-a3b1-105078947dbc
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '122'
 ht-degree: 100%
 
 ---

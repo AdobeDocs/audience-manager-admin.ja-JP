@@ -1,13 +1,13 @@
 ---
 description: Audience Manager の新規宛先を作成するか、既存の宛先を編集または削除します。
-seo-description: Audience Manager の新規宛先を作成するか、既存の宛先を編集または削除します。
-seo-title: 会社ユーザーの管理
+seo-description: Create new Audience Manager users or edit and delete existing users.
+seo-title: Manage Company Users
 title: 会社ユーザーの管理
 uuid: 32c8a4e1-c29c-44d2-8cd4-f4f1be707492
 exl-id: a2c5fd10-699f-4a0d-acec-f46811140e48
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '271'
 ht-degree: 100%
 
 ---

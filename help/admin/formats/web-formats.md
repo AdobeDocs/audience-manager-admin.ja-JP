@@ -6,8 +6,8 @@ title: HTTP 形式マクロ
 uuid: 91021f60-75d0-4b1d-86ca-91c9dadafac1
 exl-id: 80ed24ac-1b84-4c1b-966f-039b587ea899
 source-git-commit: cfc3396843592d80b017471a0e88cf335a5f81e0
-workflow-type: ht
-source-wordcount: '389'
+workflow-type: tm+mt
+source-wordcount: '376'
 ht-degree: 100%
 
 ---

@@ -6,8 +6,8 @@ title: S3 サーバーの作成または編集
 uuid: 94fee787-eb26-45aa-b602-d61ab12969ea
 exl-id: 89310de0-e24e-4d4b-8171-56faf0b441f6
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
-workflow-type: ht
-source-wordcount: '207'
+workflow-type: tm+mt
+source-wordcount: '200'
 ht-degree: 100%
 
 ---

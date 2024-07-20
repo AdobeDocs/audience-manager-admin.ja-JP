@@ -7,8 +7,8 @@ title: ベータ環境
 uuid: 6a253f4e-96e7-4395-a783-a8eb213b7daf
 exl-id: 78d5a1ff-c016-4366-ba34-9814a0d92067
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
-workflow-type: ht
-source-wordcount: '362'
+workflow-type: tm+mt
+source-wordcount: '348'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 | サービス | URL／ホスト名 | プロビジョニングの手順 |
 |--- |--- |--- |
-| S3 |  | [Amazon S3 バケットのプロビジョニング](admin-beta-environment.md#provision-s3-buckets)を参照してください。 |
+| S3 | | [Amazon S3 バケットのプロビジョニング](admin-beta-environment.md#provision-s3-buckets)を参照してください。 |
 | DCS | https://dcs-beta.demdex.net/... | 追加の手順は必要ありません。[ベータ環境で DCS にアクセスする](admin-beta-environment.md#access-dcs-beta-environment)を参照してください。 |
 | UI | https://bank-beta.demdex.com | データは、実稼動環境からベータ環境に、毎月コピーされます。実稼動用の資格情報はベータ版で有効です。 |
 | API | https://api-beta.demdex.com/... | データは、実稼動環境からベータ環境に、毎月コピーされます。実稼動用の資格情報はベータ版で有効です。 |

@@ -1,13 +1,13 @@
 ---
-description: '顧客の問題をデバッグする際には、監査ログを出発点として使用してください。 '
-seo-description: '顧客の問題をデバッグする際には、監査ログを出発点として使用してください。 '
-seo-title: 監査ログ
+description: 顧客の問題をデバッグする際には、監査ログを出発点として使用してください。
+seo-description: Use Audit Logging as a first place to go when debugging customer issues.
+seo-title: Audit Logging
 title: 監査ログ
 uuid: null
 exl-id: ff68f90f-b521-4560-9bf6-a7a6a588adf9
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '51'
 ht-degree: 100%
 
 ---

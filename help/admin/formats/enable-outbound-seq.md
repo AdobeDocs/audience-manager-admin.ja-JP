@@ -6,7 +6,7 @@ title: 送信用の Hadoop シーケンスファイル転送の有効化
 uuid: 301985b1-5ff6-4112-a353-2e5a97e7eec0
 exl-id: 45a72422-9e72-46f9-835e-ed0dd88152d2
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

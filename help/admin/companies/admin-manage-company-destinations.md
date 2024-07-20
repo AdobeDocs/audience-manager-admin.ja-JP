@@ -6,8 +6,8 @@ title: 会社宛先の管理
 uuid: d9a6bfb1-7629-44e0-b7d7-ece44f65ea2b
 exl-id: a2e73613-07cd-4ab8-8c6e-be451ed50bfc
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
-workflow-type: ht
-source-wordcount: '1068'
+workflow-type: tm+mt
+source-wordcount: '1061'
 ht-degree: 100%
 
 ---

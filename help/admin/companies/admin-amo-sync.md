@@ -1,14 +1,14 @@
 ---
 description: デフォルトでは、すべての会社がデータを Adobe Media Manager（AMO）と同期します。Admin UI では、各会社コンテナにこの処理を管理するデータソースがあります。このデータソースは Adobe AMO（ID 411）です。選択した会社のコンテナ行（「Containers」タブ内）をクリックすると、このデフォルトの同期の無効化や、AMO 同期処理のデータソースの追加や削除ができます。
-seo-description: デフォルトでは、すべての会社がデータを Adobe Media Manager（AMO）と同期します。Admin UI では、各会社コンテナにこの処理を管理するデータソースがあります。このデータソースは Adobe AMO（ID 411）です。選択した会社のコンテナ行（「Containers」タブ内）をクリックすると、このデフォルトの同期の無効化や、AMO 同期処理のデータソースの追加や削除ができます。
-seo-title: Media Manager との ID 同期
+seo-description: By default, all companies sync data with Adobe Media Optimizer (AMO). In the Admin UI, each company container has a data source that manages this process. This data source is Adobe AMO (ID 411). Click a container row (under the Containers tab) for a selected company to disable this default sync or to add and remove other data sources to the AMO sync process.
+seo-title: ID Syncing with Media Optimizer
 title: Media Manager との ID 同期
 uuid: b741dfa7-2947-4288-b214-79eccf18d53a
 exl-id: ebd978ef-3825-4a96-94bd-5cdae269cf7c
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 100%
+source-wordcount: '222'
+ht-degree: 98%
 
 ---
 
@@ -31,4 +31,3 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [コンテナの管理](../companies/admin-manage-containers.md#task_61DB5CEECC5049DD8D059C642AC3F967)
-

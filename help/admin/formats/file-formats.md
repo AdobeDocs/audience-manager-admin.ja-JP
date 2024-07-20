@@ -1,13 +1,13 @@
 ---
 description: FTP ベースのデータファイルの作成に使用できるマクロのリストを表示します。一部のマクロは、データファイルのすべてのフィールドと行に使用できます。その他のマクロは、ヘッダーとデータ行にしか使用できません。
-seo-description: FTP ベースのデータファイルの作成に使用できるマクロのリストを表示します。一部のマクロは、データファイルのすべてのフィールドと行に使用できます。その他のマクロは、ヘッダーとデータ行にしか使用できません。
-seo-title: ファイル形式マクロ
+seo-description: Lists the macros you can use to create FTP-based data files. Some macros can be used for all data file fields and rows. Other macros are specific to header and data rows only.
+seo-title: File Format Macros
 title: ファイル形式マクロ
 uuid: f91c91b6-6581-4ed7-8d7f-f8532bd41df9
 exl-id: e686bc33-da3e-49a9-8c71-2bc6ca399bfb
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '682'
 ht-degree: 100%
 
 ---

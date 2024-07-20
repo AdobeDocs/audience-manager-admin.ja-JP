@@ -6,8 +6,8 @@ title: 会社のデバイスグラフオプション
 uuid: a8ced843-710c-4a8f-a0d7-ea89d010a7a5
 exl-id: 2502f3d2-b43c-410c-acb6-03c2a2ba2c1d
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
-workflow-type: ht
-source-wordcount: '482'
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -52,4 +52,3 @@ ht-degree: 100%
 >
 >* [定義済みのプロファイルの結合ルールオプション](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-definitions.html?lang=ja)
 >* [データソース設定とメニューオプション](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=ja)
-

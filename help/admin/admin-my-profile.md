@@ -1,13 +1,13 @@
 ---
 description: Audience Manager の Admin ツールプロファイルの詳細情報の編集や、パスワードの変更をおこないます。
-seo-description: Audience Manager の Admin ツールプロファイルの詳細情報の編集や、パスワードの変更をおこないます。
-seo-title: マイプロファイル
+seo-description: Edit the details of your Audience Manager Admin tool profile or change your password.
+seo-title: My Profile
 title: マイプロファイル
 uuid: ccaa611d-c855-484e-9696-081d9b4e0935
 exl-id: d213f734-af52-4f43-8733-af67ce6f4e98
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 100%
 
 ---

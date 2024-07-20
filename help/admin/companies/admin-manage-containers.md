@@ -1,13 +1,13 @@
 ---
 description: コンテナのデータプロバイダーを表示または編集します。
-seo-description: コンテナのデータプロバイダーを表示または編集します。
-seo-title: コンテナの管理
+seo-description: View or edit data providers for containers.
+seo-title: Manage Containers
 title: コンテナの管理
 uuid: 7dfcac5e-5502-4701-97f4-ae8015c3f0a6
 exl-id: 555f0633-633c-42ff-8923-adf626aa46c4
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '148'
 ht-degree: 100%
 
 ---
@@ -43,4 +43,3 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [Media Manager との ID 同期](../companies/admin-amo-sync.md#concept_2B5537233DAA4860B3503B344F937D83)
-

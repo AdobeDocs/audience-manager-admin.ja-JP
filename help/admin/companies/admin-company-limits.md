@@ -1,13 +1,13 @@
 ---
 description: 会社のアルゴリズムモデル、セグメント、宛先、特性の各制限を管理します。
-seo-description: 会社のアルゴリズムモデル、セグメント、宛先、特性の各制限を管理します。
-seo-title: 会社制限の管理
+seo-description: Manage the following limits for the company  algorithmic models, segments, destinations, and traits.
+seo-title: Manage Company Limits
 title: 会社制限の管理
 uuid: 67a19fb2-8322-47ce-afa4-f6b78c52f814
 exl-id: dd6d04ef-895a-4bd7-bf9d-851e2fdcb594
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '286'
 ht-degree: 100%
 
 ---

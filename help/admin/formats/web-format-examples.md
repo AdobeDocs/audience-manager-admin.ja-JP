@@ -1,13 +1,13 @@
 ---
 description: 一般的に使用される HTTP マクロの組み合わせの例。
-seo-description: 一般的に使用される HTTP マクロの組み合わせの例。
-seo-title: HTTP 形式マクロの例
+seo-description: Examples of some commonly used HTTP macro combinations.
+seo-title: HTTP Format Macro Examples
 title: HTTP 形式マクロの例
 uuid: a81a2e2a-de7e-4b6a-8771-fcfa0dc74570
 exl-id: 1f8ccbf3-241d-4bd9-8c35-cf68b12d2713
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---

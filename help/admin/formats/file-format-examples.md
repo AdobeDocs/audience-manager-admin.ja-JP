@@ -1,13 +1,13 @@
 ---
 description: マクロを使用して送信 FTP ファイルテンプレートを作成する例。
-seo-description: マクロを使用して送信 FTP ファイルテンプレートを作成する例。
-seo-title: ファイル形式マクロの例
+seo-description: Examples of how macros are used to create outbound, FTP file templates.
+seo-title: File Format Macro Examples
 title: ファイル形式マクロの例
 uuid: f00d431d-7e43-457a-b633-c79cbc4c8f10
 exl-id: 132a8e40-8001-4a49-9304-82e852ee28fd
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '199'
 ht-degree: 100%
 
 ---

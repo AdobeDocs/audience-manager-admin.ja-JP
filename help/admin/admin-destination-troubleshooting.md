@@ -6,9 +6,9 @@ title: 宛先の設定に関するトラブルシューティング
 uuid: 04080fb9-6c7b-4de7-960e-54482be2de83
 exl-id: 53c72b1a-f1a1-4266-a595-e4821c2640b2
 source-git-commit: c7c5da62b32f6a56152e1c09a965facfc601cade
-workflow-type: ht
-source-wordcount: '1316'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1300'
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 送信データの形式を選択する場合は、できれば既存の形式を再利用するのが最善です。実績のある形式を使用すると、発信データを正常に生成できます。既存の形式がどのようにフォーマットされているかを正確に確認するには、メニューバーの「[!UICONTROL Formats]」オプションをクリックして、名前または ID 番号を使用して形式を検索します。形式、または形式で使用されているマクロが正しく設定されていない場合、出力が正しくフォーマットされなくなるか、情報が完全には出力されなくなります。
 
-形式の設定とマクロの使用の詳細については、「[ファイル形式マクロ](formats/file-formats.md#)」および「[HTTP 形式マクロ](formats/web-formats.md)」を参照してください
+形式の設定とマクロの使用について詳しくは、[ ファイル形式マクロ ](formats/file-formats.md#) および [HTTP 形式マクロ ](formats/web-formats.md) を参照してください。
 
 ### サーバーの設定が誤っている
 
@@ -93,11 +93,11 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 * [!UICONTROL User ID Key]をインストールします。[!UICONTROL Admin UI] で、**[!UICONTROL Companies]** に進みます。顧客の会社を検索し、クリックします。「**[!UICONTROL Destinations]**」タブを探して「**[!UICONTROL Add Destination]**」を押します。**[!UICONTROL Add Destination]** ワークフローで、[!UICONTROL User ID Key] を選択します。この [!UICONTROL User ID Key] キーにより、ターゲットデータソースからの受信 ID がフィルタリングされ、渡す ID のみが許可されます。
 
-   ![](assets/user_id_key.PNG)
+  ![](assets/user_id_key.PNG)
 
 * [!UICONTROL Data Source Type]をインストールします。Audience Manager UI で宛先を作成する場合に選択します。まず、「[!UICONTROL Inbound]」を選択し、その後、目的の ID を選択します。オプションは以下のとおりです。
 
-   ![](assets/data_source_settings.PNG)
+  ![](assets/data_source_settings.PNG)
 
 * [!UICONTROL Format]をインストールします。このオプションでは、エクスポートする形式を決定します。「**[!UICONTROL Add Destination]**」ワークフローの「**[!UICONTROL Batch Data]**」で、形式を選択します。
 

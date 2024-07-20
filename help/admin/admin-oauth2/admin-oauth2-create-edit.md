@@ -6,8 +6,8 @@ title: OAuth2 クライアント
 uuid: 3e654053-fb2f-4d8f-a53c-b5c3b8dbdaaa
 exl-id: 993eae04-02e8-4554-a6fe-cf599053bfc9
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
-workflow-type: ht
-source-wordcount: '555'
+workflow-type: tm+mt
+source-wordcount: '550'
 ht-degree: 100%
 
 ---
@@ -64,5 +64,4 @@ Audience Manager の [!UICONTROL Admin]ツールの [!UICONTROL OAuth2 Clients] 
 
 >[!MORELIKETHIS]
 >
->* [API の要件と推奨事項](../admin-oauth2/aam-admin-api-requirements.md)
-
+>* [API の要件とレコメンデーション](../admin-oauth2/aam-admin-api-requirements.md)

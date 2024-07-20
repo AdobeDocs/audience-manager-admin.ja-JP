@@ -6,8 +6,8 @@ title: 形式の作成または編集
 uuid: ca1b1feb-bcd3-4a41-b1e8-80565f6c23ae
 exl-id: 3c97d1e9-8093-4181-a1fd-fb1816cdaa3d
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
-workflow-type: ht
-source-wordcount: '420'
+workflow-type: tm+mt
+source-wordcount: '410'
 ht-degree: 100%
 
 ---

@@ -1,13 +1,13 @@
 ---
 description: サードパーティデータプロバイダーのコンテナとマッピングを表示または編集します。また、複数のデータプロバイダーとの共有もできます。
-seo-description: サードパーティデータプロバイダーのコンテナとマッピングを表示または編集します。また、複数のデータプロバイダーとの共有もできます。
-seo-title: サードパーティデータプロバイダーの管理
+seo-description: View or edit containers and mappings for third-party data providers. You can also enable sharing with different data providers.
+seo-title: Manage Third-Party Data Providers
 title: サードパーティデータプロバイダーの管理
 uuid: e41dc7b2-8b06-4e81-9b3b-0f70e2fd3275
 exl-id: b4bcf543-3769-4cb5-af96-7d60055376b8
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '195'
 ht-degree: 100%
 
 ---

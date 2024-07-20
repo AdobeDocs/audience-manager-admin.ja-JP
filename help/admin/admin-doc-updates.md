@@ -6,8 +6,8 @@ title: ドキュメントのアップデート
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
 exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
-workflow-type: ht
-source-wordcount: '600'
+workflow-type: tm+mt
+source-wordcount: '583'
 ht-degree: 100%
 
 ---
@@ -99,8 +99,8 @@ Audience Manager Admin Guide のすべての更新（追加、削除、修正）
    <td colname="col2"> <p>デバイスグラフオプションの設定方法を説明する新しいドキュメント。 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> API の要件と推奨事項</a> </p> </td> 
-   <td colname="col2"> <p>注意が必要であり、顧客に伝える必要がある要件と推奨事項について説明する新しいドキュメント。公開ドキュメントに同じタイトルのドキュメントがありますが、異なる読者層向けに変更されている箇所があります。公開ドキュメントの <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ja#api-requirements-recommendations" format="https" scope="external">API の要件と推奨事項</a>を参照してください。 </p> </td> 
+   <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> API の要件とレコメンデーション</a> </p> </td> 
+   <td colname="col2"> <p>注意が必要であり、顧客に伝える必要がある要件と推奨事項について説明する新しいドキュメント。公開ドキュメントに同じタイトルのドキュメントがありますが、異なる読者層向けに変更されている箇所があります。公開ドキュメントの <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ja#api-requirements-recommendations" format="https" scope="external">API の要件とレコメンデーション</a>を参照してください。 </p> </td> 
   </tr> 
  </tbody> 
 </table>

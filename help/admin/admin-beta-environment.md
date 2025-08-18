@@ -8,8 +8,8 @@ uuid: 6a253f4e-96e7-4395-a783-a8eb213b7daf
 exl-id: 78d5a1ff-c016-4366-ba34-9814a0d92067
 source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 100%
+source-wordcount: '347'
+ht-degree: 96%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[!DNL FTP/SFTP] の使用は推奨しませんが、[!UICONTROL Amazon S3] の使用をお勧めします。[!UICONTROL Amazon S3] の使用を奨励する理由は、[AmazonS3：概要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=ja)に記載されてい ます。
+>[!DNL FTP/SFTP] の使用は推奨しませんが、[!UICONTROL Amazon S3] の使用をお勧めします。[!UICONTROL Amazon S3] の使用を推奨する理由は、[Amazon S3:About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=ja) に記載されています。
 
 ## ベータ環境で DCS にアクセスする {#access-dcs-beta-environment}
 

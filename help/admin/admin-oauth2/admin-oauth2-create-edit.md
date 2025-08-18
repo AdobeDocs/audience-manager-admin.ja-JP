@@ -42,7 +42,7 @@ Audience Manager の [!UICONTROL Admin]ツールの [!UICONTROL OAuth2 Clients] 
 1. この [!UICONTROL OAuth2] クライアントについて、目的の名前を指定します。これはそのレコードのみの名前です。
 1. [!UICONTROL OAuth2] クライアントの電子メールアドレスを指定します。指定できる電子メールアドレスは 1 つだけです。
 1. **[!UICONTROL Partner]**&#x200B;ドロップダウンリストで、目的のパートナーを選択します。
-1. **[!UICONTROL Client ID]**&#x200B;ボックスで、目的の ID を指定します。この値は、[!DNL API] リクエストの送信時に使用します。前の手順で「[!UICONTROL Partner]」ドロップダウンリストから選択した後に入力を始めると、プレフィックスが自動入力されます。正しい形式は &lt; *`partner subdomain`* > - &lt; *`Audience Manager username`* > です。
+1. **[!UICONTROL Client ID]**&#x200B;ボックスで、目的の ID を指定します。この値は、[!DNL API] リクエストの送信時に使用します。前の手順で「[!UICONTROL Partner]」ドロップダウンリストから選択した後に入力を始めると、接頭辞が自動入力されます。正しい形式は &lt; *`partner subdomain`* > - &lt; *`Audience Manager username`* > です。
 1. 必要に応じて、**[!UICONTROL Restrict to Partner Users]** チェックボックスの選択を解除します。このチェックボックスをオンにした場合、ユーザーは選択したパートナーにリストされている [!DNL Audience Manager] ユーザーでなければなりません。ベストプラクティスとして、このオプションをオンにすることをお勧めします。
 1. **[!UICONTROL Scope]**&#x200B;セクションで、必要に応じて&#x200B;**[!UICONTROL Read]**&#x200B;および&#x200B;**[!UICONTROL Write]**&#x200B;チェックボックスをオンまたはオフにします。
 1. **[!UICONTROL Grant Type]**&#x200B;セクションで、目的の認証方法を選択します。[!UICONTROL Password] および [!UICONTROL Refresh-token] オプションのデフォルトの設定を使用することをお勧めします。

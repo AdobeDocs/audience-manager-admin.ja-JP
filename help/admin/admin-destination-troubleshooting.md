@@ -8,7 +8,7 @@ exl-id: 53c72b1a-f1a1-4266-a595-e4821c2640b2
 source-git-commit: c7c5da62b32f6a56152e1c09a965facfc601cade
 workflow-type: tm+mt
 source-wordcount: '1300'
-ht-degree: 98%
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 ### 宛先の設定が誤っている
 
-* **[!UICONTROL UserID] キーが誤っている：**&#x200B;[!UICONTROL UserID] キーは、この宛先の [!UICONTROL MasterDPID] で、送信される ID 値の基礎となります。[!UICONTROL UserID] キーはドロップダウンリストから選択できますが、この値にマッピングされている ID、特徴、セグメントがあるとは限りません。[!UICONTROL Outbound] プロセス（宛先の作成後に実行）でこの [!UICONTROL UserID] キーにマッピングされているユーザーが見つからない場合、データは送信されません。
-* **ファイル内データソースが選択されていない：**&#x200B;[!UICONTROL S2S] 以外の宛先タイプを選択すると、画面の最下部に「[!UICONTROL Configure Data Sources]」というラベルのセクションが表示されます。このセクションが最初に表示される際には、値が選択されていません。「[!UICONTROL All First Party]」チェックボックスをクリックせず、[!UICONTROL Available Data Sources] ウィンドウでデータソースを個別に選択していない場合、データは送信されません。
+* **[!UICONTROL UserID] キーが誤っている：**[!UICONTROL UserID] キーは、この宛先の [!UICONTROL MasterDPID] で、送信される ID 値の基礎となります。[!UICONTROL UserID] キーはドロップダウンリストから選択できますが、この値にマッピングされている ID、特徴、セグメントがあるとは限りません。[!UICONTROL Outbound] プロセス（宛先の作成後に実行）でこの [!UICONTROL UserID] キーにマッピングされているユーザーが見つからない場合、データは送信されません。
+* **ファイル内データソースが選択されていない：**[!UICONTROL S2S] 以外の宛先タイプを選択すると、画面の最下部に「[!UICONTROL Configure Data Sources]」というラベルのセクションが表示されます。このセクションが最初に表示される際には、値が選択されていません。「[!UICONTROL All First Party]」チェックボックスをクリックせず、[!UICONTROL Available Data Sources] ウィンドウでデータソースを個別に選択していない場合、データは送信されません。
 
 ### 形式の設定が誤っている
 
@@ -37,7 +37,7 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 * **[!DNL FTP]**
    * **[!UICONTROL Domain]**
-      * ホスト名のプレフィックスは入力しません。アカウントが [!DNL ftp://hello.com] の場合、このフィールドには [!DNL hello.com] とだけ入力します。
+      * ホスト名の接頭辞は入力しません。アカウントが [!DNL ftp://hello.com] の場合、このフィールドには [!DNL hello.com] とだけ入力します。
    * **[!UICONTROL Port/Type Combination]**
       * [!DNL FTP] 転送の場合、推奨される転送タイプは [!DNL SFTP] です。
       * [!DNL SFTP] タイプを選択すると、ポートはほぼすべての場合で 22 となります。
@@ -52,7 +52,7 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 * **[!DNL S3]**
    * [!DNL S3] は（[!DNL FTP] や [!DNL HTTP] より）推奨される転送プロトコルです。
       * **[!UICONTROL Bucket]**
-         * グループ名にはスラッシュ、プレフィックス、サフィックスなどを付けません。アドレスが [!DNL s3://your-bucket] の場合、このフィールドには [!DNL your-bucket] と入力します。
+         * グループ名にはスラッシュ、接頭辞、サフィックスなどを付けません。アドレスが [!DNL s3://your-bucket] の場合、このフィールドには [!DNL your-bucket] と入力します。
       * **[!UICONTROL Directory]**
          * データを配置するサブディレクトリが指定されていない場合は、このフィールドを空白にします。アドレスが [!DNL s3://your-bucket/your-subdirectory] の場合、「[!DNL your-bucket]」フィールドには [!UICONTROL Bucket] と入力し、「[!DNL your-subdirectory]」フィールドには [!UICONTROL Directory] と入力します。先頭にはスラッシュを追加しないでください。
          * パス上で複数階層下のディレクトリを参照する場合のみ、スラッシュを区切り記号として使用します。場所が [!DNL s3://your-bucket/your-subdirectory1/your-subdirectory2] の場合、「[!DNL your-bucket]」フィールドには [!UICONTROL Bucket]、「[!DNL your-subdirectory1/your-subdirectory2]」フィールドには [!UICONTROL Directory] と入力します。
@@ -61,16 +61,16 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 * **[!DNL HTTP]**
    * **[!UICONTROL Domain]**
-      * [!DNL HTTP] エントリにはプレフィックス情報を入力しないでください。アカウントが [!DNL https://superduper.com] の場合、このフィールドには [!DNL https://superduper.com] と入力します。
+      * [!DNL HTTP] エントリには接頭辞情報を入力しないでください。アカウントが [!DNL https://superduper.com] の場合、このフィールドには [!DNL https://superduper.com] と入力します。
       * **[!UICONTROL URL Prefix]**
-         * [!DNL URL] プレフィックスを追加する場合、先頭のスラッシュは付けません。[!DNL https://hello.com/r/x/y/z] の住所には、[!UICONTROL Domain] フィールドで入力した [!DNL https://hello.com] と、[!UICONTROL URL Prefix] フィールドでここに入力した [!DNL r/x/y/z] があります。
+         * [!DNL URL] 接頭辞を追加する場合、先頭のスラッシュは付けません。[!DNL https://hello.com/r/x/y/z] の住所には、[!UICONTROL Domain] フィールドで入力した [!DNL https://hello.com] と、[!UICONTROL URL Prefix] フィールドでここに入力した [!DNL r/x/y/z] があります。
          * [!UICONTROL URL Prefix] が必要でない場合、この値は空白にします。
       * **[!UICONTROL Authentication - SSH Key]**
          * 完全な `SSH PRIVATE` キーの値（ヘッダー、フッター、改行を含む）をこのボックスに入力し、暗号化やキーストレージが正確になるようにします。
 
 ### 送信生成の時間が足りない
 
-送信プロセスは 1 日に 2 回実行され、複数の処理（送信、パブリッシング、外部の場所へのプッシュなど）をファイルが最終的な宛先にプッシュされる前に実行します。データを外部の場所にプッシュする予定の 24 時間以上前に宛先を完全に設定しておくことを推奨します。
+アウトバウンディングプロセスは 1 日に 2 回実行されます。ファイルが最終的な宛先にプッシュされる前に、複数のプロセス（アウトバウンディング、公開、外部ロケーションへのプッシュなど）を実行する必要があります。 データを外部の場所にプッシュする予定の 24 時間以上前に宛先を完全に設定しておくことを推奨します。
 
 ### ファイルの分割サイズが大きすぎます
 
@@ -111,7 +111,7 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
    <th colname="col01" class="entry"> 設定番号 </th> 
    <th colname="col1" class="entry"> <p>ユーザーキー </p> </th> 
    <th colname="col2" class="entry"> <p>Data Source Type </p> </th> 
-   <th colname="col3" class="entry"> <p>形式 </p> </th> 
+   <th colname="col3" class="entry"> <p>書式設定 </p> </th> 
    <th colname="col4" class="entry"> <p>エクスポートする ID のタイプ </p> </th> 
   </tr>
  </thead>

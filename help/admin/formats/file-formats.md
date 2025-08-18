@@ -86,7 +86,7 @@ ht-degree: 100%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>TAB</code> </p> </td> 
-   <td colname="col2"> <p>このマクロはフィールド間の区切り文字としてタブを挿入します。 </p> </td> 
+   <td colname="col2"> <p>このマクロはフィールド間の区切り記号としてタブを挿入します。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -177,7 +177,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>TAB</code> </p> </td> 
-   <td colname="col2"> <p>区切り文字としてタブを挿入します。 </p> </td> 
+   <td colname="col2"> <p>区切り記号としてタブを挿入します。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>TRAIT_LIST</code> </p> </td> 

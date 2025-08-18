@@ -24,8 +24,8 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 ### 宛先の設定が誤っている
 
-* **[!UICONTROL UserID] キーが誤っている：**[!UICONTROL UserID] キーは、この宛先の [!UICONTROL MasterDPID] で、送信される ID 値の基礎となります。[!UICONTROL UserID] キーはドロップダウンリストから選択できますが、この値にマッピングされている ID、特徴、セグメントがあるとは限りません。[!UICONTROL Outbound] プロセス（宛先の作成後に実行）でこの [!UICONTROL UserID] キーにマッピングされているユーザーが見つからない場合、データは送信されません。
-* **ファイル内データソースが選択されていない：**[!UICONTROL S2S] 以外の宛先タイプを選択すると、画面の最下部に「[!UICONTROL Configure Data Sources]」というラベルのセクションが表示されます。このセクションが最初に表示される際には、値が選択されていません。「[!UICONTROL All First Party]」チェックボックスをクリックせず、[!UICONTROL Available Data Sources] ウィンドウでデータソースを個別に選択していない場合、データは送信されません。
+* **[!UICONTROL UserID] キーが誤っている：**&#x200B;[!UICONTROL UserID] キーは、この宛先の [!UICONTROL MasterDPID] で、送信される ID 値の基礎となります。[!UICONTROL UserID] キーはドロップダウンリストから選択できますが、この値にマッピングされている ID、特徴、セグメントがあるとは限りません。[!UICONTROL Outbound] プロセス（宛先の作成後に実行）でこの [!UICONTROL UserID] キーにマッピングされているユーザーが見つからない場合、データは送信されません。
+* **ファイル内データソースが選択されていない：**&#x200B;[!UICONTROL S2S] 以外の宛先タイプを選択すると、画面の最下部に「[!UICONTROL Configure Data Sources]」というラベルのセクションが表示されます。このセクションが最初に表示される際には、値が選択されていません。「[!UICONTROL All First Party]」チェックボックスをクリックせず、[!UICONTROL Available Data Sources] ウィンドウでデータソースを個別に選択していない場合、データは送信されません。
 
 ### 形式の設定が誤っている
 

@@ -50,7 +50,7 @@ ht-degree: 96%
 
 ベータ環境で [!UICONTROL DCS] にアクセスする方法
 
-1. [!UICONTROL DCS] [!DNL curl]コマンド[を使用して ](https://curl.haxx.se/docs/manpage.html) 呼び出しをおこないます。[!DNL Curl] は、サポートされている様々なプロトコルの中から 1 つを使用して、サーバー間データ転送をおこなうためのツールです。
+1. [!UICONTROL DCS] [!DNL curl]コマンド[を使用して &#x200B;](https://curl.haxx.se/docs/manpage.html) 呼び出しをおこないます。[!DNL Curl] は、サポートされている様々なプロトコルの中から 1 つを使用して、サーバー間データ転送をおこなうためのツールです。
 
    例：`curl -v https://dcs-beta.demdex.net/event`
 

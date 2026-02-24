@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # アーカイブ済み
 
-このリポジトリは <https://github.com/Adobe-Enterprise-Docs/audience-manager-admin.en> に移行されます。
+このリポジトリは <https://github.com/Adobe-Enterprise-Docs/audience-manager-admin.ja-JP> に移行されます。

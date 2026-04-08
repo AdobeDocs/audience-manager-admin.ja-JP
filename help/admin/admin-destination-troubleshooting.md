@@ -6,9 +6,15 @@ title: 宛先の設定に関するトラブルシューティング
 uuid: 04080fb9-6c7b-4de7-960e-54482be2de83
 exl-id: 53c72b1a-f1a1-4266-a595-e4821c2640b2
 TQID: https://experienceleague.adobe.com/R21EJzuvrPlTAa3n92xgT74wdAKKKZxlJL8nWNn3mgA
-product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baaid: b82b475d-1e7d-46c6-9172-1f9c73004b11id: c814092e-2730-45e8-a12d-e084529f52cb
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
 source-wordcount: 1343
@@ -28,14 +34,14 @@ Audience Manager での宛先の設定と一般的な問題の解決に関する
 
 ### 宛先の設定が誤っている
 
-* **[!UICONTROL UserID] キーが誤っている：**[!UICONTROL UserID] キーは、この宛先の [!UICONTROL MasterDPID] で、送信される ID 値の基礎となります。 [!UICONTROL UserID] キーはドロップダウンリストから選択できますが、この値にマッピングされている ID、特徴、セグメントがあるとは限りません。 [!UICONTROL Outbound] プロセス（宛先の作成後に実行）でこの [!UICONTROL UserID] キーにマッピングされているユーザーが見つからない場合、データは送信されません。
-* **ファイル内データソースが選択されていない：**[!UICONTROL S2S] 以外の宛先タイプを選択すると、画面の最下部に「[!UICONTROL Configure Data Sources]」というラベルのセクションが表示されます。 このセクションが最初に表示される際には、値が選択されていません。 「[!UICONTROL All First Party]」チェックボックスをクリックせず、[!UICONTROL Available Data Sources] ウィンドウでデータソースを個別に選択していない場合、データは送信されません。
+* **[!UICONTROL UserID] キーが誤っている：**&#x200B;[!UICONTROL UserID] キーは、この宛先の [!UICONTROL MasterDPID] で、送信される ID 値の基礎となります。 [!UICONTROL UserID] キーはドロップダウンリストから選択できますが、この値にマッピングされている ID、特徴、セグメントがあるとは限りません。 [!UICONTROL Outbound] プロセス（宛先の作成後に実行）でこの [!UICONTROL UserID] キーにマッピングされているユーザーが見つからない場合、データは送信されません。
+* **ファイル内データソースが選択されていない：**&#x200B;[!UICONTROL S2S] 以外の宛先タイプを選択すると、画面の最下部に「[!UICONTROL Configure Data Sources]」というラベルのセクションが表示されます。 このセクションが最初に表示される際には、値が選択されていません。 「[!UICONTROL All First Party]」チェックボックスをクリックせず、[!UICONTROL Available Data Sources] ウィンドウでデータソースを個別に選択していない場合、データは送信されません。
 
 ### 形式の設定が誤っている
 
 送信データの形式を選択する場合は、できれば既存の形式を再利用するのが最善です。 実績のある形式を使用すると、発信データを正常に生成できます。 既存の形式がどのようにフォーマットされているかを正確に確認するには、メニューバーの「[!UICONTROL Formats]」オプションをクリックして、名前または ID 番号を使用して形式を検索します。 形式、または形式で使用されているマクロが正しく設定されていない場合、出力が正しくフォーマットされなくなるか、情報が完全には出力されなくなります。
 
-書式の設定とマクロの使用について詳しくは、[ ファイル形式マクロ ](formats/file-formats.md#)および[HTTP形式マクロ ](formats/web-formats.md)を参照してください。
+書式の設定とマクロの使用について詳しくは、[&#x200B; ファイル形式マクロ &#x200B;](formats/file-formats.md#)および[HTTP形式マクロ &#x200B;](formats/web-formats.md)を参照してください。
 
 ### サーバーの設定が誤っている
 

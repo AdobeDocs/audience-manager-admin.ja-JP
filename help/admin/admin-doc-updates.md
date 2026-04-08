@@ -5,9 +5,17 @@ seo-title: Documentation Updates
 title: ドキュメントのアップデート
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
 exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
-source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
+TQID: https://experienceleague.adobe.com/QQHJ9VBxkF-pMFYIvgny6JJRS38Q-3nXD1kSzWdGJxQ
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: 644
 ht-degree: 100%
 
 ---
@@ -16,7 +24,7 @@ ht-degree: 100%
 
 Audience Manager Admin Guide のすべての更新（追加、削除、修正）を日付別に紹介。
 
-機能リリース、改良点、バグの修正の詳細については、[Experience Cloud リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)を参照してください。[!DNL Audience Manager] ドキュメントの変更点については、[ドキュメントの更新](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=ja)を参照してください。
+機能リリース、改良点、バグの修正の詳細については、[Experience Cloud リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)を参照してください。 [!DNL Audience Manager] ドキュメントの変更点については、[ドキュメントの更新](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=ja)を参照してください。
 
 ## AAM 2019 ドキュメントのアップデート {#aam-2019-docs-updates}
 
@@ -47,7 +55,7 @@ Audience Manager Admin Guide のすべての更新（追加、削除、修正）
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="admin-servers/admin-authorize-s3-cross-bucket.md#task_20B12994C5484A9D8CC40DF6F456CBE7"> 手順：バッチ保存先へのクロスアカウント Amazon S3 バケットアクセスを承認</a> </p> </td> 
-   <td colname="col2"> <p>顧客が Amazon S3 のアクセスキーとシークレットキーを共有しない場合は、送信データファイルの配信に Amazon S3 のクロスアカウントのバケットのアクセス許可を使用できます。このドキュメントでは、Audience Manager Admin UI でこの代替手段を設定する方法を説明します。 </p> </td> 
+   <td colname="col2"> <p>顧客が Amazon S3 のアクセスキーとシークレットキーを共有しない場合は、送信データファイルの配信に Amazon S3 のクロスアカウントのバケットのアクセス許可を使用できます。 このドキュメントでは、Audience Manager Admin UI でこの代替手段を設定する方法を説明します。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -100,7 +108,7 @@ Audience Manager Admin Guide のすべての更新（追加、削除、修正）
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> API の要件とレコメンデーション</a> </p> </td> 
-   <td colname="col2"> <p>注意が必要であり、顧客に伝える必要がある要件と推奨事項について説明する新しいドキュメント。公開ドキュメントに同じタイトルのドキュメントがありますが、異なる読者層向けに変更されている箇所があります。公開ドキュメントの <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ja#api-requirements-recommendations" format="https" scope="external">API の要件とレコメンデーション</a>を参照してください。 </p> </td> 
+   <td colname="col2"> <p>注意が必要であり、顧客に伝える必要がある要件と推奨事項について説明する新しいドキュメント。 公開ドキュメントに同じタイトルのドキュメントがありますが、異なる読者層向けに変更されている箇所があります。 公開ドキュメントの <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ja#api-requirements-recommendations" format="https" scope="external">API の要件とレコメンデーション</a>を参照してください。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -128,8 +136,8 @@ Audience Manager Admin Guide のすべての更新（追加、削除、修正）
    <td colname="col2"> <p>Create Server Configuration ウィザードに <b>HTTP 署名</b>を追加しました。 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><a href="admin-beta-environment.md#concept_4AA12E66F49A452C8BA4E91AA28060AA"> ベータ環境</a> </p> </td> 
-   <td colname="col2"> <p>ベータ環境の URL とホスト名を更新しました。 </p> </td> 
+   <td colname="col1"> <p><a href="admin-beta-environment.md#concept_4AA12E66F49A452C8BA4E91AA28060AA"> Beta 環境</a> </p> </td> 
+   <td colname="col2"> <p>Beta 環境の URL とホスト名を更新しました。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="companies/outbound-active-user-filter.md#task_F5CF8BDDA5DB4D23837B59CADF7A623B"> 発信データをアクティブユーザーのみにフィルタリング</a> </p> </td> 
@@ -182,7 +190,7 @@ Audience Manager Admin Guide のすべての更新（追加、削除、修正）
   </tr> 
   <tr> 
    <td colname="col1"> <p>2014 年 10 月 23 日 </p> <p><a href="formats/formats.md#concept_66AA2E78A25C4973B3230D5F75B192A2"> 形式</a> </p> </td> 
-   <td colname="col2"> <p>新規ページ。このページは現在作成中で、近い将来更新されます。 </p> </td> 
+   <td colname="col2"> <p>新規ページ。 このページは現在作成中で、近い将来更新されます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>2014 年 10 月 22 日 </p> <p><a href="admin-destination-troubleshooting.md#"> 宛先の設定に関するトラブルシューティング</a> </p> </td> 
@@ -190,7 +198,7 @@ Audience Manager Admin Guide のすべての更新（追加、削除、修正）
   </tr> 
   <tr> 
    <td colname="col1"> <p>2014 年 10 月 21 日 </p> <p><a href="companies/admin-manage-company-destinations.md#manage-company-destinations"> 会社宛先の管理</a> </p> </td> 
-   <td colname="col2"> <p>トピック全体を改訂しました。情報と設定を追加しました。 </p> </td> 
+   <td colname="col2"> <p>トピック全体を改訂しました。 情報と設定を追加しました。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>2014 年 9 月 25 日 </p> <p><a href="companies/admin-manage-company-profiles.md"> 会社の作成</a> </p> </td> 

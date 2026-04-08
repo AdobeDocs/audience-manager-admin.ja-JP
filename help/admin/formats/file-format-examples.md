@@ -5,9 +5,12 @@ seo-title: File Format Macro Examples
 title: ファイル形式マクロの例
 uuid: f00d431d-7e43-457a-b633-c79cbc4c8f10
 exl-id: 132a8e40-8001-4a49-9304-82e852ee28fd
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/G90HDd1wpf-fgftySBnc-JG-l-DMi7X-sPopemyXpGg
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: 203
 ht-degree: 100%
 
 ---
@@ -18,11 +21,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->表中の&#x200B;**太字**&#x200B;は、各マクロとそれに関連する出力の識別に使用しています。形式の例では、各マクロを明確に区切るために &lt; > 記号を追加しています。
+>表中の&#x200B;**太字**&#x200B;は、各マクロとそれに関連する出力の識別に使用しています。 形式の例では、各マクロを明確に区切るために &lt; > 記号を追加しています。
 
 ## 一般的なマクロ {#common-macros}
 
-これらのマクロはどの形式フィールドでも使用できます。「[ファイル形式マクロ](../formats/file-formats.md)」で完全なリストと定義を参照してください。
+これらのマクロはどの形式フィールドでも使用できます。 「[ファイル形式マクロ](../formats/file-formats.md)」で完全なリストと定義を参照してください。
 
 <table id="table_B5073597219B470298EE614902DACAE8"> 
  <thead> 
@@ -70,7 +73,7 @@ ht-degree: 100%
 
 ## ヘッダーフィールドマクロ {#header-field-macros}
 
-ヘッダーフィールドのみで使用されるマクロ。「[ファイル形式マクロ](../formats/file-formats.md)」で完全なリストと定義を参照してください。
+ヘッダーフィールドのみで使用されるマクロ。 「[ファイル形式マクロ](../formats/file-formats.md)」で完全なリストと定義を参照してください。
 
 <table id="table_ABC31B3D660D47969E111EBC734D5BBC"> 
  <thead> 
@@ -89,7 +92,7 @@ ht-degree: 100%
 
 ## データ行マクロ {#data-row-macros}
 
-ヘッダーフィールドのみで使用されるマクロ。「[ファイル形式マクロ](../formats/file-formats.md)」で完全なリストと定義を参照してください。
+ヘッダーフィールドのみで使用されるマクロ。 「[ファイル形式マクロ](../formats/file-formats.md)」で完全なリストと定義を参照してください。
 
 <table id="table_408C6DD2B9D54550B003EAC93562E64F"> 
  <thead> 

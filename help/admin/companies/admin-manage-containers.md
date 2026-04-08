@@ -5,9 +5,11 @@ seo-title: Manage Containers
 title: コンテナの管理
 uuid: 7dfcac5e-5502-4701-97f4-ae8015c3f0a6
 exl-id: 555f0633-633c-42ff-8923-adf626aa46c4
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/xV6qof80WHIYI6R8-INw3fOsmxTUzf-pN0SoDSST69I
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 147
 ht-degree: 100%
 
 ---
@@ -20,11 +22,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->デフォルトでは、会社の作成時に 1 つのコンテナが設定されます。ユーザーインターフェイスの **[!UICONTROL Tools > Tags]** で会社用のコンテナをさらに作成できます。
+>デフォルトでは、会社の作成時に 1 つのコンテナが設定されます。 ユーザーインターフェイスの **[!UICONTROL Tools > Tags]** で会社用のコンテナをさらに作成できます。
 
 1. **[!UICONTROL Companies]**&#x200B;をクリックし、目的の会社を検索してからクリックして、[!UICONTROL Profile] ページを表示します。
 
-   「[!UICONTROL Search]」ボックス、またはリストの最下部にあるページネーションコントロールを使用して、目的の会社を検索します。目的の列のヘッダーをクリックすると、その列を昇順または降順に並べ替えることができます。
+   「[!UICONTROL Search]」ボックス、またはリストの最下部にあるページネーションコントロールを使用して、目的の会社を検索します。 目的の列のヘッダーをクリックすると、その列を昇順または降順に並べ替えることができます。
 
 1. 「**[!UICONTROL Containers]**」タブをクリックします。
 

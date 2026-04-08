@@ -5,9 +5,11 @@ seo-title: HTTP Format Macro Examples
 title: HTTP 形式マクロの例
 uuid: a81a2e2a-de7e-4b6a-8771-fcfa0dc74570
 exl-id: 1f8ccbf3-241d-4bd9-8c35-cf68b12d2713
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/Fkj0DEVCpSKCRNq6e1qRdNdAIJ2MiPRaoAp5espQYrw
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 66
 ht-degree: 100%
 
 ---
@@ -137,7 +139,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>&lt;if(user.segments &amp;&amp; user.removedSegments)&gt;&lt;COMMA&gt;&lt;endif&gt;</code> </p> </td> 
-   <td colname="col2"> <p><code>segments</code> フィールドと <code>removedSegments</code> フィールドが空でない場合、コンマが出力されます。この条件は、セグメントのリストと削除済みセグメントのリストを結合するための POST リクエストで使用できます。 </p> </td> 
+   <td colname="col2"> <p><code>segments</code> フィールドと <code>removedSegments</code> フィールドが空でない場合、コンマが出力されます。 この条件は、セグメントのリストと削除済みセグメントのリストを結合するための POST リクエストで使用できます。 </p> </td> 
   </tr> 
  </tbody> 
 </table>

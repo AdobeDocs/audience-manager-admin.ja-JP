@@ -5,9 +5,11 @@ seo-title: Audit Logging
 title: 監査ログ
 uuid: null
 exl-id: ff68f90f-b521-4560-9bf6-a7a6a588adf9
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/4KTEiPhvHfEGkhLhnod72z3qwyjqjowh1ncaXGNNWSk
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: 51
 ht-degree: 100%
 
 ---
@@ -18,7 +20,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この [!UICONTROL Audit Logging] 機能とドキュメントは現在開発中で、変更される可能性があります。[!DNL JIRA]（[!DNL UI] チーム）で発生した問題があれば、記録してください。
+>この [!UICONTROL Audit Logging] 機能とドキュメントは現在開発中で、変更される可能性があります。 [!DNL JIRA]（[!DNL UI] チーム）で発生した問題があれば、記録してください。
 
 ![監査ログビュー](assets/audit-logging-img.png)
 

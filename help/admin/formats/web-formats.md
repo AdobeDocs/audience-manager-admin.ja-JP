@@ -1,20 +1,22 @@
 ---
-description: HTTP データファイルの作成に使用できるマクロのリストを表示します。HTTP はデータを JSON 形式で送信します。
+description: HTTP データファイルの作成に使用できるマクロのリストを表示します。 HTTP はデータを JSON 形式で送信します。
 seo-description: Lists the macros you can use to create HTTP data files. HTTP sends data in a JSON format.
 seo-title: HTTP Format Macros
 title: HTTP 形式マクロ
 uuid: 91021f60-75d0-4b1d-86ca-91c9dadafac1
 exl-id: 80ed24ac-1b84-4c1b-966f-039b587ea899
-source-git-commit: cfc3396843592d80b017471a0e88cf335a5f81e0
+TQID: https://experienceleague.adobe.com/5j4Tq2P-dNGLa-yLSm8EY8xQWg7MBR9ggzdUi0oBMBQ
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 100%
+source-wordcount: 394
+ht-degree: 98%
 
 ---
 
 # HTTP 形式マクロ {#http-format-macros}
 
-[!DNL HTTP] データファイルの作成に使用できるマクロのリストを表示します。[!DNL HTTP] はデータを [!DNL JSON] 形式で送信します。
+[!DNL HTTP] データファイルの作成に使用できるマクロのリストを表示します。 [!DNL HTTP] はデータを [!DNL JSON] 形式で送信します。
 
 [HTTP 形式マクロの例](../formats/web-format-examples.md)で、一般的に使用されるマクロの組み合わせのリストと例を参照してください。
 
@@ -35,7 +37,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>データパートナーの一意のユーザー ID。このマクロは、ユーザーに割り当てた ID が <span class="keyword">Audience Manager</span> デバイス ID と既に同期されている場合、その ID を返します。 </p> </td> 
+   <td colname="col3"> <p>データパートナーの一意のユーザー ID。 このマクロは、ユーザーに割り当てた ID が <span class="keyword">Audience Manager</span> デバイス ID と既に同期されている場合、その ID を返します。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DPID</code> </p> </td> 
@@ -50,7 +52,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>GENERATION_TIME</code> </p> </td> 
    <td colname="col2"> <p> <code>GET, POST</code> </p> </td> 
-   <td colname="col3"> <p>Unix UTC タイムスタンプ。<span class="wintitle">S2S </span>宛先をパートナーに公開するよう AAM が通知を受けた時間を表す内部タイムスタンプ。 </p> </td> 
+   <td colname="col3"> <p>Unix UTC タイムスタンプ。 <span class="wintitle">S2S </span>宛先をパートナーに公開するよう AAM が通知を受けた時間を表す内部タイムスタンプ。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>IP</code> </p> </td> 
@@ -60,7 +62,7 @@ ht-degree: 100%
     <tr> 
    <td colname="col1"> <p> <code>MCID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>Experience Cloud ID.（MCID は、Experience Cloud のレガシー名である Marketing Cloud を表します） </p> </td> 
+   <td colname="col3"> <p>Experience Cloud ID. （MCID は、Experience Cloud のレガシー名である Marketing Cloud を表します） </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>NUM_REMOVED_SEGMENTS</code> </p> </td> 
@@ -80,7 +82,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>PID_ALIAS</code> </p> </td> 
    <td colname="col2"> <p> <code>GET, POST</code> </p> </td> 
-   <td colname="col3"> <p>パートナー ID のエイリアス。外部アカウント ID とも呼ばれます。 </p> </td> 
+   <td colname="col3"> <p>パートナー ID のエイリアス。 外部アカウント ID とも呼ばれます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>RANDOM</code> </p> </td> 
@@ -100,7 +102,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>REMOVED_SEGMENTS</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>ユーザーが認定されないセグメントのリスト。以下のような特定のセグメントフィールドを返すこともできます。 </p> <p> 
+   <td colname="col3"> <p>ユーザーが認定されないセグメントのリスト。 以下のような特定のセグメントフィールドを返すこともできます。 </p> <p> 
      <ul id="ul_29B83093A7624A908F0C06F2A248981A"> 
       <li id="li_57A60A54F5D44E38ACB4E2648095F246"> <code>traitAlias</code> </li> 
       <li id="li_4079F646493F40DBA0CE75D662A69454"> <code>legacySegmentId (formerly segmentId)</code> </li> 
@@ -127,7 +129,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>SEGMENTS</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>ユーザーが認定されているセグメントのリスト。以下のような特定のセグメントフィールドを返すこともできます。 </p> <p> 
+   <td colname="col3"> <p>ユーザーが認定されているセグメントのリスト。 以下のような特定のセグメントフィールドを返すこともできます。 </p> <p> 
      <ul id="ul_9209683A8E0A4B8081E5EFA4602F743F"> 
       <li id="li_D796526C1C9E45BEA891D619539888C4"> <code>traitAlias</code> </li> 
       <li id="li_BF12E010E1AD432C84605B9817F209DD"> <code>legacySegmentId (formerly segmentId)</code> </li> 
@@ -144,7 +146,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>TIMESTAMP</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>UNIX の UTC タイムスタンプ。セグメントの最後の認識を表します。 </p> </td> 
+   <td colname="col3"> <p>UNIX の UTC タイムスタンプ。 セグメントの最後の認識を表します。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>TRAITALIAS_LIST</code> </p> </td> 
@@ -159,7 +161,7 @@ ht-degree: 100%
   <tr> 
    <td colname="col1"> <p> <code>USER_LIST</code> </p> </td> 
    <td colname="col2"> <p> <code>POST</code> </p> </td> 
-   <td colname="col3"> <p><span class="keyword">Audience Manager</span> ユーザー ID のリスト。以下のような特定のフィールドを返すこともできます。 </p> 
+   <td colname="col3"> <p><span class="keyword">Audience Manager</span> ユーザー ID のリスト。 以下のような特定のフィールドを返すこともできます。 </p> 
     <ul id="ul_B6857D809FDC46749B7E745BD8C45F8E"> 
      <li id="li_F31CD82D16ED41FD82518141D90B5B35"> <code>user.aamUuid</code> </li> 
      <li id="li_623FA758C84D4A2D9B25C7FBE90F62B7"> <code>user.dpUuid</code> </li> 
@@ -173,8 +175,8 @@ ht-degree: 100%
      <li><code>user.regionIds</code></li> 
     </ul> <p>これらのフィールドは以下の例のように指定します。 </p> <p> 
      <codeblock>
-       "AAM_UUID": "&lt;user.aamUuid&gt;" 
-"DataPartner_UUID": "&lt;user.dpUuid&gt;" 
+       "AAM_UUID": "&lt;user.aamUuid&gt;" 
+"DataPartner_UUID": "&lt;user.dpUuid&gt;" 
      </codeblock> </p> <p>完全な例については、<a href="../formats/web-format-examples.md#reference_98828E32B0964FF9AAC7C5400E88BA31">HTTP 形式マクロの例</a>を参照してください。 </p> </td> 
   </tr>
  </tbody>

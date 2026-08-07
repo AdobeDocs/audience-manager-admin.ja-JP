@@ -12,7 +12,7 @@ feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
 source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: 1101
+source-wordcount: 1105
 ht-degree: 100%
 
 ---
@@ -48,13 +48,13 @@ Audience Manager の宛先を作成、編集および削除します。
 * **[!UICONTROL Name]：**（必須）この宛先の名前を指定します。
 * **[!UICONTROL Description]：**&#x200B;この宛先に関する説明を指定します。
 * **[!UICONTROL Type]：**（必須）目的の宛先タイプを選択します。
-   * **[!UICONTROL Bulk ID]**：プラットフォーム間での同期 ID。
-   * **[!UICONTROL Bulk Trait]**：特性情報を一括で複数のプラットフォームに送信します。
-   * **[!UICONTROL Bulk Segment]**：セグメント情報を一括で複数のプラットフォームに送信します。
-   * **[!UICONTROL S2S]**：サーバー間宛先を使用して、リアルタイムデータとバッチデータを複数のプラットフォームに送信します。
+  * **[!UICONTROL Bulk ID]**：プラットフォーム間での同期 ID。
+  * **[!UICONTROL Bulk Trait]**：特性情報を一括で複数のプラットフォームに送信します。
+  * **[!UICONTROL Bulk Segment]**：セグメント情報を一括で複数のプラットフォームに送信します。
+  * **[!UICONTROL S2S]**：サーバー間宛先を使用して、リアルタイムデータとバッチデータを複数のプラットフォームに送信します。
 * **[!UICONTROL Auto-Fill Destination Mapping]：**（[!UICONTROL S2S] のみ）オプションを選択します。
-   * **[!UICONTROL Segment ID]：**&#x200B;この設定を選択した場合、宛先の値のマッピングとして [!DNL Audience Manager] のセグメント ID が入力されます。
-   * **[!UICONTROL Integration Code Value]：**&#x200B;この設定を選択した場合、宛先の値のマッピングとして [!DNL Audience Manager] の統合コードが入力されます。
+  * **[!UICONTROL Segment ID]：**&#x200B;この設定を選択した場合、宛先の値のマッピングとして [!DNL Audience Manager] のセグメント ID が入力されます。
+  * **[!UICONTROL Integration Code Value]：**&#x200B;この設定を選択した場合、宛先の値のマッピングとして [!DNL Audience Manager] の統合コードが入力されます。
 * **[!UICONTROL User ID Key]：**（必須）この宛先で使用するユーザー ID キーをドロップダウンリストから選択します。
 
 この ID はマスターデータソース ID として使用します。 これにより、ファイルに送信されるユーザー ID が決定されます。
@@ -85,9 +85,9 @@ Audience Manager の宛先を作成、編集および削除します。
 [!UICONTROL Bulk ID]、[!UICONTROL Bulk Trait]、または [!UICONTROL Bulk Segment] の宛先の場合は、以下のフィールドを入力します。
 
 * **[!UICONTROL Protocol]**：（必須）この宛先で使用するプロトコルをドロップダウンリストから選択します。
-   * **[!UICONTROL FTP]**
-   * **[!UICONTROL HTTP]**
-   * **[!UICONTROL S3]**
+  * **[!UICONTROL FTP]**
+  * **[!UICONTROL HTTP]**
+  * **[!UICONTROL S3]**
 * **[!UICONTROL Servers]**：（必須）この宛先で使用するサーバーをドロップダウンリストから選択します。
 * **[!UICONTROL Format]**：（必須）この宛先で使用する形式をドロップダウンリストから選択します。形式は上で選択したプロトコルによって、[!DNL HTTP] 形式またはファイル形式のいずれかとなります。
 * **[!UICONTROL Sync Type]**：（必須）この宛先で使用する同期タイプを選択します。 これは、クライアントが送信オーダーに含めるユーザーアクティビティのレベルを表します。 クライアントがプロパティからセグメントの選定のみを行う場合は、「**[!UICONTROL Customer]**」を選択します。 すべての **[!UICONTROL Platform]** ユーザーにまたがるオフサイトアクティビティからセグメントの選定を含める場合は、「[!DNL Audience Manager]」を選択します。
